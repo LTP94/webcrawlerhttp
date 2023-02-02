@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "nvm": "^0.0.4"
+  },
+  "name": "webcrawlerhttp",
+  "description": "1.- Install NVM",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTP94/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LTP94/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/LTP94/webcrawlerhttp#readme"
+}
